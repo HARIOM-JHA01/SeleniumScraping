@@ -1,4 +1,0 @@
-
-Dr. Sally	555-1234	sally@calpoly.edu	12-34
-Dr. Steve	555-5678	steve@calpoly.edu	56-78
-Dr. Kathy	555-9012	kathy@calpoly.edu	90-123
